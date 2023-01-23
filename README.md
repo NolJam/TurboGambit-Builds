@@ -1,4 +1,5 @@
 # TurboGambit-Builds
 Builds for my game TurboGambit.
 
-Download and extrack .zip
+Download and extract .zip
+.exe and .pck must be in the same file
